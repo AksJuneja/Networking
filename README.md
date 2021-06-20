@@ -3,3 +3,4 @@
 
 Below is the pictorial representation of the model.The 8 cities have been assigned code digits to make the communication easier in this model. 
 
+![Image](image.PNG)
